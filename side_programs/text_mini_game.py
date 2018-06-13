@@ -22,15 +22,3 @@ else:
     input()
     if input() == 'y':
         print('You follow')
-    
-#print('x')
-#input()
-#print('x')
-#input()
-#print('x')
-#input()
-#print('x')
-#input()
-#print('x')
-#input()
-#print('x')
